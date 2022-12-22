@@ -57,4 +57,4 @@ jobs:
           repository: maven-releases
           coordinates: groupId=com.example artifactId=app version=1.0.0
           assets: extension=jar
-          filename: ./demo.war
+          filename: ./demo-new.jar
